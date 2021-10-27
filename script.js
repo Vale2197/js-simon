@@ -55,7 +55,7 @@ setTimeout(function(){
         alert("mi dispiace... ma non hai indovinato nessun numero..")
     }
     
-}, 5000);
+}, 30000);
 
 console.log(userArray);
 
